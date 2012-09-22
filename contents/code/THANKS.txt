@@ -1,0 +1,10 @@
+
+This is my first plasmoid. I've taken some code from other projects.
+
+
+- gmail-plasmoid (mjmccans)
+http://code.google.com/p/gmail-plasmoid
+
+- pyWordyClock (Ken Lim)
+http://kenlim.github.com/pyWordyClock/
+WordyClock.py is just adapted to be multilingual
