@@ -3,11 +3,11 @@ wordyclock-plasmoid
 
 WordyClock plasmoid for KDE4.
 
-![wordyclock-plasmoid screenshot. English](Screenshots/wordyclock-screenshot-en.png)\
+![wordyclock-plasmoid screenshot. English](https://raw.github.com/bielfrontera/wordyclock-plasmoid/master/Screenshots/wordyclock-screenshot-en.png)
 
-![wordyclock-plasmoid screenshot. Catalan](Screenshots/wordyclock-screenshot-ca.png)\
+![wordyclock-plasmoid screenshot. Catalan](https://raw.github.com/bielfrontera/wordyclock-plasmoid/master/Screenshots/wordyclock-screenshot-ca.png)
 
-![wordyclock-plasmoid screenshot. Spanish](Screenshots/wordyclock-screenshot-es.png)\
+![wordyclock-plasmoid screenshot. Spanish](https://raw.github.com/bielfrontera/wordyclock-plasmoid/master/Screenshots/wordyclock-screenshot-es.png)
 
 
 Credits
