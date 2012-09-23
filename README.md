@@ -29,5 +29,6 @@ Install the plasmoid;
 You can also rename wordyclock_plasmoid.zip to wordyclok.plasmoid, and add it from 'Add widgets dialog'. 
 
 You can test the plasmoid from command line:
+
     $ plasmoidviewer wordyclock_plasmoid
 
